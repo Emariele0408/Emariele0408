@@ -9,7 +9,7 @@ https://github.com/Emariele0408/ProjetoE2E
 Sobre mim, analista de qualidade sênior com mais de 9 anos de experiência em testes manuais e automatizados, em sistemas SaaS Contabil e Financeiro.
 Com base no aperfeiçoamento profissional criei esse portifólio, com alguns dos meus trabalhos.
 
-Tenho Graduação em Ciências Contabeis e estou estudando Analise de desenvolvimento de sistemas, pós graduação em Engenharia de Qualidade de Software.
+Tenho Graduação em Ciências Contabeis e estou estudando Analise de desenvolvimento de sistemas, pós graduanda em Engenharia de Qualidade de Software.
 
 # Conhecimento nas Tecnologias abaixo
 
