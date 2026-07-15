@@ -1,5 +1,8 @@
 # Portifólio de Estudos
 
+https://github.com/Emariele0408/ProjetoAPI
+https://github.com/Emariele0408/ProjetoE2E
+
 # Olá meu nome é Emariele
 
 Sobre mim, analista de qualidade senior com mais de 9 anos de experiencia em testes manuais e automatizado, dentro de sistemas SAAS Contabil e Financeiro.
