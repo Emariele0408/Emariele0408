@@ -6,8 +6,9 @@ https://github.com/Emariele0408/ProjetoE2E
 
 # Olá meu nome é Emariele
 
-Sobre mim, analista de qualidade senior com mais de 9 anos de experiencia em testes manuais e automatizado, dentro de sistemas SAAS Contabil e Financeiro.
+Sobre mim, analista de qualidade sênior com mais de 9 anos de experiência em testes manuais e automatizados, em sistemas SaaS Contabil e Financeiro.
 Com base no aperfeiçoamento profissional criei esse portifólio, com alguns dos meus trabalhos.
+
 Tenho Graduação em Ciências Contabeis e estou estudando Analise de desenvolvimento de sistemas, pós graduação em Engenharia de Qualidade de Software.
 
 # Conhecimento nas Tecnologias abaixo
@@ -30,6 +31,7 @@ Smoke test
 ## 📫 Contato
 
 https://www.linkedin.com/in/emariele-de-souza-da-silva-51a903181/
+
 emariele0408@icloud.com 
 
 
