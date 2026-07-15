@@ -23,7 +23,7 @@ Testes funcionais e não funcionais
 Testes regressivos
 Smoke test
 
-# Contato
+## 📫 Contato
 
 https://www.linkedin.com/in/emariele-de-souza-da-silva-51a903181/
 emariele0408@icloud.com 
